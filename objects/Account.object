@@ -3,7 +3,7 @@
     <validationRules>
         <fullName>Name_must_be_blank</fullName>
         <active>true</active>
-        <errorConditionFormula>Name=&apos;te1&apos;</errorConditionFormula>
+        <errorConditionFormula>Name=&apos;te2&apos;</errorConditionFormula>
         <errorDisplayField>Name</errorDisplayField>
         <errorMessage>Name must be blank</errorMessage>
     </validationRules>
